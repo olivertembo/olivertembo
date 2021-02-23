@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olivertembo
+- 👋 Hi, I’m Oliver
 - 👀 I’m interested in Web Dev, Augmented Reality and VR.
 - 🌱 I’m currently learning React VR
 - 💞️ I’m looking to collaborate on any web development tasks
