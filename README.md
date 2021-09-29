@@ -27,7 +27,7 @@
 
 Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://i.gifer.com/5eKX.gif" />
+  <img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trefoil_knot_conways_game_of_life.gif/220px-Trefoil_knot_conways_game_of_life.gif" />
   
 **Talking about Personal Stuffs:**
 
