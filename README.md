@@ -37,8 +37,8 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📫 How to reach me: olivertembo.spaceship@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBU/view)
 
 **Languages and Tools:**  
 
