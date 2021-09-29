@@ -31,12 +31,9 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/Oliver/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/Oliver/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- 👨🏽‍💻 I’m currently working on my billion $ app (https://github.com/olivertembo/billiondollarapp);
+- 🌱 I’m currently learning WebGL and Three.js; 
+- 👯 I’m looking to collaborate on making Laravel unsuck 🤝;
 - 📫 How to reach me: olivertembo.spaceship@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBU/view)
 
@@ -62,10 +59,10 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a 
 
 
 <a href="https://github.com/Oliver/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver&repo=A-POP" />
+  <img align="left" src="https://github.com/olivertembo/gsap-react-rain-animation" />
 </a>
 
 <a href="https://github.com/Oliver/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver&repo=IIITDMJ-GPA" />
+  <img align="left" src="https://github.com/olivertembo/civil-engineering-toolbox" />
 </a>
 
