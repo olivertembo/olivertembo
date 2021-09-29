@@ -27,7 +27,7 @@
 
 Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trefoil_knot_conways_game_of_life.gif/220px-Trefoil_knot_conways_game_of_life.gif" />
+  <img align="right" alt="GIF" src="https://img.etimg.com/thumb/msid-73134190,width-640,resizemode-4,imgsize-86125/handling-the-spacecraft.jpg" />
   
 **Talking about Personal Stuffs:**
 
@@ -58,11 +58,11 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a 
 ⭐️ From [Oliver](https://github.com/olivertembo)
 
 
-<a href="https://github.com/Oliver/A-POP">
+<a href="https://github.com/olivertembo/gsap-react-rain-animation">
   <img align="left" src="https://github.com/olivertembo/gsap-react-rain-animation" />
 </a>
 
-<a href="https://github.com/Oliver/IIITDMJ-GPA">
-  <img align="left" src="https://github.com/olivertembo/civil-engineering-toolbox" />
+<a href="https://github.com/olivertembo/civil-engineering-toolbox">
+  <img align="left" src="https://github.com/olivertembo/gsap-react-rain-animation" />
 </a>
 
