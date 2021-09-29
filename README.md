@@ -27,7 +27,7 @@
 
 Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://img.etimg.com/thumb/msid-73134190,width-640,resizemode-4,imgsize-86125/handling-the-spacecraft.jpg" />
+  <img align="right" alt="GIF" width="400" src="https://img.etimg.com/thumb/msid-73134190,width-640,resizemode-4,imgsize-86125/handling-the-spacecraft.jpg" />
   
 **Talking about Personal Stuffs:**
 
