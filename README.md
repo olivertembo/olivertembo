@@ -34,7 +34,7 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a 
 - 👨🏽‍💻 I’m currently working on my billion $ app (https://github.com/olivertembo/billiondollarapp);
 - 🌱 I’m currently learning WebGL and Three.js; 
 - 👯 I’m looking to collaborate on making Laravel unsuck 🤝;
-- 📫 How to reach me: olivertembo.spaceship@gmail.com;
+- 📫 How to reach me: tembokoliver3@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBU/view)
 
 **Languages and Tools:**  
