@@ -50,19 +50,3 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 from Moscow, currently, I'm a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-![Oliver's github stats](https://github-readme-stats.vercel.app/api?username=olivertembo&show_icons=true&hide_border=true)
-
-⭐️ From [Oliver](https://github.com/olivertembo)
-
-
-<a href="https://github.com/olivertembo/gsap-react-rain-animation">
-  <img align="left" src="https://github.com/olivertembo/gsap-react-rain-animation" />
-</a>
-
-<a href="https://github.com/olivertembo/civil-engineering-toolbox">
-  <img align="left" src="https://github.com/olivertembo/gsap-react-rain-animation" />
-</a>
-
