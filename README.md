@@ -3,29 +3,21 @@
 <a href="https://twitter.com/olivertembo">
   <img align="left" alt="Oliver Tembo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/olivertembo/">
+<a href="https://www.linkedin.com/in/olivertembo">
   <img align="left" alt="Oliver's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Oliver">
+<a href="https://t.me/neebak">
   <img align="left" alt="Oliver's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/Oliver/">
+<a href="https://www.instagram.com/neebak/">
   <img align="left" alt="Oliver's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Oliver's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/Oliver/">
-  <img align="left" alt="Oliver's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/abhisheknaidu">
-  <img align="left" alt="Oliver's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+
 
 <br />
 <br />
 
-Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 , Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/olivertembo2/), and a Computational Mechanics Researcher. Beyond's programming, I enjoy photography and traveling.
+Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 , Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/olivertembo2/), and a Computational Civil Engineering Researcher. Beyond's programming, I enjoy photography and traveling.
 
   <img align="right" alt="GIF" width="400" src="https://img.etimg.com/thumb/msid-73134190,width-640,resizemode-4,imgsize-86125/handling-the-spacecraft.jpg" />
   
