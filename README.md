@@ -24,7 +24,7 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 , Freelancer 👨🏽‍💻 [
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on my billion dollar app (https://github.com/olivertembo/billiondollarapp);
-- 🌱 I’m interested in Mobile Apps, WebGL, GSIS, BIM and VR; 
+- 🌱 I’m interested in Mobile Apps, WebGL, GSIS, and AR; 
 - 👯 I’m looking to collaborate on making Laravel unsuck 🤝;
 - 📫 How to reach me: tembokoliver3@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1z0xDTyJsWvCVJ809TwbIXA7ejLWaeSBW/view?usp=sharing)
