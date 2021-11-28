@@ -1,18 +1,8 @@
-### Hey 👋🏽, I'm [Oliver!](https://neebak.tech) 
+### Hey 👋🏽, I'm [Oliver!](https://olivertembo.github.io/) 
 
-<a href="https://twitter.com/olivertembo">
-  <img align="left" alt="Oliver Tembo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/olivertembo">
   <img align="left" alt="Oliver's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/neebak">
-  <img align="left" alt="Oliver's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/neebak/">
-  <img align="left" alt="Oliver's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 
 <br />
 <br />
@@ -27,7 +17,6 @@ Hi, I'm Oliver Tembo, a Full Stack Developer 🚀 , Freelancer 👨🏽‍💻 [
 - 🌱 I’m interested in Mobile Apps, WebGL, GSIS, and AR; 
 - 👯 I’m looking to collaborate on making Laravel unsuck 🤝;
 - 📫 How to reach me: tembokoliver3@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1z0xDTyJsWvCVJ809TwbIXA7ejLWaeSBW/view?usp=sharing)
 
 **Languages and Tools:**  
 
